@@ -1,2 +1,2 @@
 # avif2jpg.js
-Convert Multiple `.avif` Folders or Files to `.jpg`
+Using `FFmpeg` to Convert Multiple `.avif` Folders or Files to `.jpg`
